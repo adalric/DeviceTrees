@@ -30,9 +30,25 @@
       "effective-production-status-ap": "0x00000000",
       "contents": [
         {
-          "AAPL,phandle": "0x00000003",
-          "name": "memory-map",
-          "kernel-only": "true"
+        	"MemoryMapReserved-14": "0x00000000000000000000000000000000",
+        	"MemoryMapReserved-5": "0x00000000000000000000000000000000",
+        	"MemoryMapReserved-11": "0x00000000000000000000000000000000",
+        	"MemoryMapReserved-0": "0x00000000000000000000000000000000",
+        	"MemoryMapReserved-6": "0x00000000000000000000000000000000",
+        	"AAPL,phandle": "0x00000005",
+        	"MemoryMapReserved-15": "0x00000000000000000000000000000000",
+        	"MemoryMapReserved-1": "0x00000000000000000000000000000000",
+        	"MemoryMapReserved-7": "0x00000000000000000000000000000000",
+        	"MemoryMapReserved-12": "0x00000000000000000000000000000000",
+        	"MemoryMapReserved-2": "0x00000000000000000000000000000000",
+        	"MemoryMapReserved-8": "0x00000000000000000000000000000000",
+        	"MemoryMapReserved-3": "0x00000000000000000000000000000000",
+        	"MemoryMapReserved-9": "0x00000000000000000000000000000000",
+        	"MemoryMapReserved-10": "0x00000000000000000000000000000000",
+        	"MemoryMapReserved-13": "0x00000000000000000000000000000000",
+        	"MemoryMapReserved-4": "0x00000000000000000000000000000000",
+        	"name": "memory-map",
+        	"kernel-only": "true"
         },
         {
           "AAPL,phandle": "0x00000004",
