@@ -30,11 +30,11 @@
       "effective-production-status-ap": "0x00000000",
       "contents": [
         {
-        {
           "AAPL,phandle": "0x00000005",
           "name": "memory-map",
           "kernel-only": "true"
         },
+        {
           "AAPL,phandle": "0x00000006",
           "populate-registry-time": "0x00000000",
           "load-kernel-start": "0x00000000",
